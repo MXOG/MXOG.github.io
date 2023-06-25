@@ -1,1 +1,3 @@
-# mxog.github.io
+# MXOGのウェブサイト
+
+MXOG公式サイトのソースコードです。
